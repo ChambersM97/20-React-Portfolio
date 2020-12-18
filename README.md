@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to React Portfolio 👋</h1>
+<h1 align="center">Welcome to Chambers' React Portfolio 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> My portfolio using React.js
+> My React Portfolio built off of a template from github.(Links at the bottom of the readme)
 
 ## Install
 
@@ -19,7 +19,7 @@ npm run start
 
 ## Author
 
-👤 **Chambers Mansour**
+👤 **Chambers Mansour **
 
 * Github: [@ChambersM97](https://github.com/ChambersM97)
 
