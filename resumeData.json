@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Chambers Mansour",
+    "occupation":"Front-End Developer",
+    "description":"looking to share my talents with the world!",
+    "image":"profilepic.jpg",
+    "bio":"I'm orginally from Mississippi, and moved to Austin to chase a bigger dream. After being in the service industry for the first few years I was in Austin, I decided I wanted to change career paths and pursue something that I've always been interest in, coding.",
+    "contactmessage":"Reach out!",
+    "email": "chambersmansour97@gmail.com",
+    "phone": "662-820-1081",
+    "address":{
+      "street":"11500 Jollyville Rd.",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78759"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chambers-mansour",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/chambers_8675309",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/ChambersM97",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Louisiana State University",
+        "degree":"1 year of Industrial Engineering",
+        "graduated":"May 2021",
+        "description":"Developed a great understanding of businesses, how to integrate efficient safety protocols and improve workflow"
+      },
+      {
+        "school":"University of Texas",
+        "degree":"FullStack Software Bootcamp",
+        "graduated":"January 2021",
+        "description":"Developed my core understanding of web development with Javascript that allows be to build fully funcitonal web applications."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"Node",
+        "level":"50%"
+      },
+      {
+        "name":"Express",
+        "level":"35%"
+      },
+      {
+        "name":"MySQL",
+        "level":"20%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"GameDex",
+        "category":"Register and Sign-In to create a saved list of games! Get the games description img etc too!",
+        "image":"dex2.PNG",
+        "url":"https://game-dex-ut.herokuapp.com/"
+      },
+      {
+        "title":"Big Picture",
+        "category":"An easier way to search for jobs.",
+        "image":"bigpicture1.PNG",
+        "url":"https://sakiskid.github.io/Big-Picture/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
